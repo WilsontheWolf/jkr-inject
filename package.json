@@ -1,0 +1,9 @@
+{
+  "name": "steamodded-settings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "WilsontheWolf (https://shorty.systems/)",
+  "license": "MPL-2.0",
+  "type": "module",
+  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
+}
